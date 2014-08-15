@@ -1,0 +1,25 @@
+{
+  "name": "tiniplanet-spriterjs",
+  "version": "0.0.1",
+  "authors": [
+    "Long Hoang Le <hoanglong25588@gmail.com>"
+  ],
+  "description": "Javascript library for Spriter scml support",
+  "main": "spriter.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "tiniplanet",
+    "spriter",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
